@@ -37,4 +37,11 @@
     </td>
 
 # Certificates:
-
+<p align="center">
+  <a href="">
+    <img alt="HTML,CSS" title="HTML,CSS" src="images/Phạm Hoàng Trung HTML & CSS Certificate.png" width="300px" />
+  </a>
+  <a href="">
+    <img alt="Responsive Web" title="Responsive Web" src="images/Phạm Hoàng Trung Responsive Web Design Certificate.png" width="300px" />
+  </a>
+</p>
