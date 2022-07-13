@@ -32,7 +32,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-        <img src=""/>
+        <img src="https://img.icons8.com/ios-filled/50/FA5252/html-5--v1.png"/>
 
     </td>
     <td>
