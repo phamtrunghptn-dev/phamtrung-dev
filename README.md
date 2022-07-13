@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trung Phạm</h1>
 <p align="center"><img src=""/></p>
 <h3 align="center">A frontend developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
+<p align="center"> <img src="" /> </p>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+- ✍ I'm a student of: [HaNoi University of Industry](https://www.haui.edu.vn/vn) (HAUI).
 
 - 🌱 I’m currently learning **MERN Stack.**
 
