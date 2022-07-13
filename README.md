@@ -38,6 +38,11 @@
         <img src="https://img.icons8.com/color/100/FA5252/css3.png"/>
       </p>
     </td>
+    <td>
+      <p>
+        <img src="https://img.icons8.com/color/48/FA5252/javascript--v1.png"/>
+      </p>  
+    </td>  
   </tr>
 </table>
 
