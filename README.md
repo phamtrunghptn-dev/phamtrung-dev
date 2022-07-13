@@ -37,7 +37,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://codelearn.io/Media/Default/Users/UaenaClown99/Markdown/HTML-icon.png"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"/>
       </p>
     </td>
   </tr>
