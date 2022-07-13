@@ -36,7 +36,7 @@
     </td>
     <td>
       <p align="center"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"/>
+        <img src="https://img.icons8.com/color/48/FA5252/css3.png"/>
       </p>
     </td>
   </tr>
