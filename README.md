@@ -31,11 +31,11 @@
 <table style="width:100%;">
   <tr>
     <td>
-        <img src="https://img.icons8.com/ios-filled/50/FA5252/html-5--v1.png"/>
+        <img src="https://img.icons8.com/ios-filled/100/FA5252/html-5--v1.png"/>
     </td>
     <td>
       <p align="center"> 
-        <img src="https://img.icons8.com/color/96/FA5252/css3.png"/>
+        <img src="https://img.icons8.com/color/100/FA5252/css3.png"/>
       </p>
     </td>
   </tr>
