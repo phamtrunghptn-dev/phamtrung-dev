@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trung Phạm</h1>
 <p align="center"><img src=""/></p>
 <h3 align="center">A Frontend Developer from VietNam </h3>
-<p align="center"> <img src="" /> </p>
+<p align="center"> <img src="https://www.haui.edu.vn//media/73/t73821.jpg" width="10%"/> </p>
 
 - ✍ I'm a student of: [HaNoi University of Industry](https://www.haui.edu.vn/vn) (HAUI).
 
