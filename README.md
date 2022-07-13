@@ -5,7 +5,6 @@
 
 - ✍ I'm a student of: [HaNoi University of Industry](https://www.haui.edu.vn/vn) (HAUI).
 
-- 🌱 I’m currently learning **MERN Stack.**
 
 
 ## 📫 How to reach me:
