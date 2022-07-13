@@ -40,7 +40,7 @@
     </td>
     <td>
       <p>
-        <img src="https://img.icons8.com/color/48/FA5252/javascript--v1.png"/>
+        <img src="https://img.icons8.com/color/240/FA5252/javascript--v1.png"/>
       </p>  
     </td>  
   </tr>
